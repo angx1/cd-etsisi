@@ -1,0 +1,59 @@
+:root {
+  --color1: #fDff0d;
+  --color2: #ffffff;
+}
+
+
+
+
+body {
+  background-color: var(--color2);
+}
+
+
+
+.Rotator1 {
+  height: 60vmin;
+  pointer-events: none;
+  
+}
+
+.Rotator2 {
+  height: 15vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .Rotator1 {
+      animation: App-logo-spin1 infinite 20s linear;
+    }
+    .Rotator2 {
+      animation: App-logo-spin2 infinite 20s linear;
+    }
+  }
+
+
+  @keyframes App-logo-spin1 {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  @keyframes App-logo-spin2 {
+    from {
+      transform: rotate(360deg);
+    }
+    to {
+      transform: rotate(0deg);
+    }
+  }
+  
+
+  #info-box {
+    background-color: transparent;
+    width: 300px;
+    height: 200px;
+  }
