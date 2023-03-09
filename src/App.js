@@ -1,31 +1,41 @@
 
 import React, { useState } from 'react'
-import Rotator from './components/rotator';
 import './App.css';
-import logo1 from './images/logo1-black.svg'
-import logo2 from './images/logo2-black.svg'
-import logo3 from './images/logo1-white.svg'
-import logo4 from './images/logo2-white.svg'
-import logo5 from './images/logo1-yellow.svg'
-import logo6 from './images/logo2-yellow.svg'
+import NavBar from './components/nav-bar.jsx';
+import Home from './components/home.jsx';
+
 
 
 function App(props) {
 
 
 
-  
+  const [nabvar_state, setNavBarState] = useState(true);
+  const [home_state, setHomeState] = useState(true);
 
 
+  const handleShowingNavBar = () => {
+    nabvar_state ? setNavBarState(false) : setNavBarState(true);
+  }
 
 
+  const handleReturnHome = () => {
+    setNavBarState(false); 
+    setHomeState(true);
+  }
 
 
   return (
     <>
-      <div className="position-absolute top-50 start-50 translate-middle"><img src={logo1} className='Rotator1'/></div> 
-      <div className="position-absolute top-50 start-50 translate-middle"><img src={logo4} className='Rotator2'/></div> 
-      
+  
+      <NavBar  
+        onShowingNavBar={() => handleShowingNavBar()} 
+        showNavBar={nabvar_state} 
+        onReturnHome={() => handleReturnHome()}
+        />
+
+
+    {home_state ? <Home/> : <></>}
     </>
   );  
 }
