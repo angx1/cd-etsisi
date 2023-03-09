@@ -9,7 +9,7 @@ const NavBar = (props) => {
             <ul className=" mb-1" id="nav">
                 <span href="" className="list-group-item" onClick={() => props.onReturnHome()}><li>ABOUT US</li></span>
                 <span href="" className="list-group-item" onClick={() => props.onReturnHome()}><li>MANIFESTO</li></span>
-                <span href="" className="list-group-item" onClick={() => props.onReturnHome()}><li>HOME</li></span>
+                <span href="" className="list-group-item" onClick={() => props.onReturnHome()}><li>---  HOME</li></span>
             </ul>
         </div>        
     </>   

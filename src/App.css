@@ -88,15 +88,16 @@ span:hover{
 {
   z-index: 3;
   position: fixed;
-  bottom: 12%;
+  bottom: 120px;
   right: 6%;
   backdrop-filter: blur(2px) brightness(105%);
+  width: 130px;
   
 }
 ul {
   position: relative;
   float:left;
-  right: 5%;
+  right: 21%;
   list-style-type: none;
   text-align: right;
   font-weight: initial;
