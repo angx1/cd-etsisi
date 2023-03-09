@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/angx1/cd-etsisi.git/static/css/main.0d1e4173.css",
-    "main.js": "/angx1/cd-etsisi.git/static/js/main.9ed30d68.js",
-    "static/js/787.f587e8d5.chunk.js": "/angx1/cd-etsisi.git/static/js/787.f587e8d5.chunk.js",
-    "static/media/logo1-yellow.svg": "/angx1/cd-etsisi.git/static/media/logo1-yellow.bde28b1c5d93044362b650304fb3a01a.svg",
-    "static/media/logo1-white.svg": "/angx1/cd-etsisi.git/static/media/logo1-white.0bb5da04f6bf7caa5c0472f72db6f0d0.svg",
-    "static/media/logo2-yellow.svg": "/angx1/cd-etsisi.git/static/media/logo2-yellow.d64f32b4c1ebb0a162f59d4d2333f091.svg",
-    "static/media/logo2-white.svg": "/angx1/cd-etsisi.git/static/media/logo2-white.e3681d5788a57c7dd59059d94764ad42.svg",
-    "static/media/logo1-black.svg": "/angx1/cd-etsisi.git/static/media/logo1-black.575c92c5fff00ba74fb00ff249f883a8.svg",
-    "static/media/logo2-black.svg": "/angx1/cd-etsisi.git/static/media/logo2-black.575c92c5fff00ba74fb00ff249f883a8.svg",
-    "index.html": "/angx1/cd-etsisi.git/index.html",
-    "main.0d1e4173.css.map": "/angx1/cd-etsisi.git/static/css/main.0d1e4173.css.map",
-    "main.9ed30d68.js.map": "/angx1/cd-etsisi.git/static/js/main.9ed30d68.js.map",
-    "787.f587e8d5.chunk.js.map": "/angx1/cd-etsisi.git/static/js/787.f587e8d5.chunk.js.map"
+    "main.css": "/cd-etsisi/static/css/main.0d1e4173.css",
+    "main.js": "/cd-etsisi/static/js/main.f6e360e7.js",
+    "static/js/787.f587e8d5.chunk.js": "/cd-etsisi/static/js/787.f587e8d5.chunk.js",
+    "static/media/logo1-yellow.svg": "/cd-etsisi/static/media/logo1-yellow.bde28b1c5d93044362b650304fb3a01a.svg",
+    "static/media/logo1-white.svg": "/cd-etsisi/static/media/logo1-white.0bb5da04f6bf7caa5c0472f72db6f0d0.svg",
+    "static/media/logo2-yellow.svg": "/cd-etsisi/static/media/logo2-yellow.d64f32b4c1ebb0a162f59d4d2333f091.svg",
+    "static/media/logo2-white.svg": "/cd-etsisi/static/media/logo2-white.e3681d5788a57c7dd59059d94764ad42.svg",
+    "static/media/logo1-black.svg": "/cd-etsisi/static/media/logo1-black.575c92c5fff00ba74fb00ff249f883a8.svg",
+    "static/media/logo2-black.svg": "/cd-etsisi/static/media/logo2-black.575c92c5fff00ba74fb00ff249f883a8.svg",
+    "index.html": "/cd-etsisi/index.html",
+    "main.0d1e4173.css.map": "/cd-etsisi/static/css/main.0d1e4173.css.map",
+    "main.f6e360e7.js.map": "/cd-etsisi/static/js/main.f6e360e7.js.map",
+    "787.f587e8d5.chunk.js.map": "/cd-etsisi/static/js/787.f587e8d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d1e4173.css",
-    "static/js/main.9ed30d68.js"
+    "static/js/main.f6e360e7.js"
   ]
 }
