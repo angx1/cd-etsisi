@@ -13,7 +13,7 @@ function App(props) {
 
   const [nabvar_state, setNavBarState] = useState(true);
   const [home_state, setHomeState] = useState(true);
-  const [manifesto_state, setManifestoState] = useState(true);
+  const [manifesto_state, setManifestoState] = useState(false);
 
 
   const handleShowingNavBar = () => {
