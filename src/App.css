@@ -10,6 +10,7 @@
 body {
   background-color: var(--color2);
   font-family: monospace;
+  animation: aparition-an 2.5s;
 }
 
 
@@ -112,4 +113,17 @@ li {
   margin: 10px;
   font-weight: normal;
   transition: .2s;
+}
+
+
+/* - - - - - - - - */
+
+
+@keyframes aparition-an{
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }

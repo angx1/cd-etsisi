@@ -11,8 +11,8 @@ const AboutUs = (props) => {
                Hi! welcome to our website. Here you will be able<br/>  
                to see our work and updates to future events.<br/><br/>
 
-               We are a comunity of people who want to become<br/> the best version of themselves, 
-               a club to inspire and to work together to get to wherever we want.<br/><br/>
+               We are a <em><strong>comunity</strong></em> of people who want to become<br/> the best version of themselves, 
+               a club to <em><strong>inspire</strong></em> and to work <em><strong>together</strong></em> to get to wherever we want.<br/><br/>
 
                follow us on instagram: <a rel="noreferrer" target="_blank" href="https://www.instagram.com/cdetsisi/?hl=en">@cdetsisi</a>
                
