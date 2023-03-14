@@ -10,9 +10,9 @@ const Manifesto = (props) => {
             <p className="position-absolute top-50 start-50 translate-middle">
                 1. Our mission is progress.<br/> 
                 2. A community to outperform.<br/> 
-                3. We believe on oppportunities, hardwork, <br/> 
+                3. We believe on opportunities, hardwork, <br/> 
                 consistency, clarity and mindfulness.<br/> 
-                4. make it happen. shock everyone
+                4. Make it happen. Shock everyone
             </p>
         </>
      );

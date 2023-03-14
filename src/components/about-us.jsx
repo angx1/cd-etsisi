@@ -14,7 +14,7 @@ const AboutUs = (props) => {
                We are a comunity of people who want to become<br/> the best version of themselves, 
                a club to inspire and to work together to get to wherever we want.<br/><br/>
 
-               follow us on instagram: <a rel="noreferrer" target="_blank" href="https://www.instagram.com/cdetsisi/?hl=en">@ahrmoran</a>
+               follow us on instagram: <a rel="noreferrer" target="_blank" href="https://www.instagram.com/cdetsisi/?hl=en">@cdetsisi</a>
                
                 
             </p>
