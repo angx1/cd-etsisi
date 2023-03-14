@@ -14,7 +14,9 @@ const AboutUs = (props) => {
                We are a <em><strong>comunity</strong></em> of people who want to become<br/> the best version of themselves, 
                a club to <em><strong>inspire</strong></em> and to work <em><strong>together</strong></em> to get to wherever we want.<br/><br/>
 
-               follow us on instagram: <a rel="noreferrer" target="_blank" href="https://www.instagram.com/cdetsisi/?hl=en">@cdetsisi</a>
+               follow us on instagram: <a rel="noreferrer" target="_blank" href="https://www.instagram.com/cdetsisi/?hl=en">@cdetsisi</a><br/>
+               our events <a rel="noreferrer" target="_blank" href="https://linktr.ee/cdetsisi">here</a><br/>
+
                
                 
             </p>
