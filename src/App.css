@@ -93,6 +93,7 @@ span:hover{
   right: 6%;
   backdrop-filter: blur(2px) brightness(105%);
   width: 130px;
+  animation: aparition-nav 1s;
   
 }
 ul {
@@ -102,6 +103,7 @@ ul {
   list-style-type: none;
   text-align: right;
   font-weight: initial;
+  animation: aparition-an 2s;
 }
   li:hover{
     cursor: pointer;
@@ -112,7 +114,7 @@ li {
   font-size: 17px;
   margin: 10px;
   font-weight: normal;
-  transition: .2s;
+  transition: .3s;
 }
 
 
@@ -125,5 +127,16 @@ li {
   }
   to {
     opacity: 1;
+  }
+}
+
+
+
+@keyframes aparition-nav {
+  from {
+    height: 0%;
+  }
+  to{
+    height: 122px;
   }
 }

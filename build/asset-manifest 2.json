@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cd-etsisi/static/css/main.3ea5ea15.css",
+    "main.js": "/cd-etsisi/static/js/main.a1f7b559.js",
+    "static/js/787.f587e8d5.chunk.js": "/cd-etsisi/static/js/787.f587e8d5.chunk.js",
+    "static/media/logo2-white.svg": "/cd-etsisi/static/media/logo2-white.e3681d5788a57c7dd59059d94764ad42.svg",
+    "static/media/logo1-black.svg": "/cd-etsisi/static/media/logo1-black.575c92c5fff00ba74fb00ff249f883a8.svg",
+    "index.html": "/cd-etsisi/index.html",
+    "main.3ea5ea15.css.map": "/cd-etsisi/static/css/main.3ea5ea15.css.map",
+    "main.a1f7b559.js.map": "/cd-etsisi/static/js/main.a1f7b559.js.map",
+    "787.f587e8d5.chunk.js.map": "/cd-etsisi/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ea5ea15.css",
+    "static/js/main.a1f7b559.js"
+  ]
+}
