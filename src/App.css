@@ -93,7 +93,7 @@ span:hover{
   right: 6%;
   backdrop-filter: blur(2px) brightness(105%);
   width: 130px;
-  animation: aparition-nav 1s;
+  animation: aparition-nav .4s;
   
 }
 ul {
