@@ -135,8 +135,10 @@ li {
 @keyframes aparition-nav {
   from {
     height: 0%;
+    backdrop-filter: blur(2px) brightness(105%);
   }
   to{
     height: 122px;
+    backdrop-filter: blur(2px) brightness(105%);
   }
 }
