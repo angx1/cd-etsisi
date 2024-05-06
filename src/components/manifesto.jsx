@@ -12,7 +12,8 @@ const Manifesto = (props) => {
                 2. A community to outperform.<br/> 
                 3. We believe on opportunities, hardwork, <br/> 
                 consistency, clarity and mindfulness.<br/> 
-                4. Make it happen. Shock everyone
+                4. Make it happen. Shock everyone <br/>
+                5. Enjoy the journey not the destination <br/>
             </p>
         </>
      );
